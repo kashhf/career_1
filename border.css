@@ -1,0 +1,43 @@
+.sign-up
+{
+   border: 2px solid rgb(209, 197, 197); 
+   width: 100%;
+   border-color: #999;
+   border-radius: 29px 35px 31px 30px;
+   
+
+   
+}
+
+.one
+{
+    width: 30%;
+    border: 1px solid #999;
+    padding: 14px;
+    border-radius: 140px;
+}
+.two
+{
+    width: 30%;
+    border: 1px solid #999;
+    padding: 14px;
+    border-radius: 140px; 
+}
+.three
+{
+   
+    border: 1px solid #999;
+    padding: 14px;
+    border-radius: 140px;    
+    background-color: rgb(135,206,235);
+    border-color: #999;
+}
+.four
+{
+
+    border: 1px solid ;
+    padding: 14px;
+    border-radius: 140px;   
+    background-color: rgb(135,206,235);
+    border-color: #999;
+}
